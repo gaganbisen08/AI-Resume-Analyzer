@@ -5,7 +5,6 @@
 Developed By:
 
 - Gagan Bisen
-- Huzaifa Khan
 
 RKDF University Bhopal
 
@@ -468,18 +467,6 @@ Interests:
 - Cybersecurity
 - AI Projects
 - IT Support
-
----
-
-## Huzaifa Khan
-
-MCA Final Year Student  
-RKDF University Bhopal
-
-Interests:
-- Artificial Intelligence
-- Web Development
-- UI/UX Design
 
 ---
 
